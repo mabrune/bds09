@@ -1,11 +1,11 @@
 import './assets/styles/custom.scss';
-import Home from 'pages/Home';
+import MovieCatalog from 'pages/Private/MovieCatalog';
 
 import './App.css';
 
 const App = () => {
   return (
-    <Home />
+    <MovieCatalog />
   );
 };
 

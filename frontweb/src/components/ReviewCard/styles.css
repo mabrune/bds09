@@ -1,0 +1,34 @@
+.review-card-container a {
+  display: block;
+  font-size: 18px;
+  letter-spacing: -0.015em;
+  margin-bottom: 12px;
+}
+
+@media (min-width: 576px) {
+  .review-card-container a {
+    font-size: 19px;
+    margin-bottom: 16px;
+  }
+}
+
+@media (min-width: 768px) {
+    .review-card-container a {
+      font-size: 21px;
+      margin-bottom: 20px;
+    }
+  }
+
+  @media (min-width: 992px) {
+    .review-card-container a {
+      font-size: 22px;
+      margin-bottom: 24px;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    .review-card-container a {
+      font-size: 24px;
+      margin-bottom: 27px;
+    }
+  }
