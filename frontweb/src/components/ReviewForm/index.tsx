@@ -11,7 +11,7 @@ const ReviewForm = () => {
         />
       </form>
       <div className="button-container">
-        <button className="btn btn-primary btn-icon">
+        <button className="btn btn-primary form-btn-icon">
           <p>SALVAR AVALIAÇÃO</p>
         </button>
       </div>

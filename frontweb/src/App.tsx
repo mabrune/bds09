@@ -1,11 +1,11 @@
 import './assets/styles/custom.scss';
-import MovieDetails from 'pages/Private/MovieDetails';
+import Routes from 'Routes';
 
 import './App.css';
 
 const App = () => {
   return (
-    <MovieDetails />
+    <Routes />
   );
 };
 

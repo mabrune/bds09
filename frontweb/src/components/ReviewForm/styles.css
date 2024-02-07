@@ -19,14 +19,14 @@
   text-align: center;
 }
 
-.btn-icon {
+.form-btn-icon {
   padding-top: 10px;
   border-radius: 4px;
   height: 50px;
   width: 260px;
 }
 
-.btn-icon p {
+.form-btn-icon p {
   font-size: 16px;
   font-weight: 700;
   letter-spacing: -0.015em;
@@ -37,7 +37,7 @@
     margin-bottom: 20px;
   }
 
-  .btn-icon {
+  .form-btn-icon {
     width: 293px;
   }
 }
@@ -47,7 +47,7 @@
     margin-bottom: 23px;
   }
 
-  .btn-icon {
+  .form-btn-icon {
     width: 307px;
   }
 }
@@ -57,7 +57,7 @@
     margin-bottom: 26px;
   }
 
-  .btn-icon {
+  .form-btn-icon {
     width: 320px;
   }
 }
@@ -67,7 +67,7 @@
     margin-bottom: 29px;
   }
 
-  .btn-icon {
+  .form-btn-icon {
     width: 334px;
   }
 }
