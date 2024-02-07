@@ -1,11 +1,11 @@
 import './assets/styles/custom.scss';
-import MovieCatalog from 'pages/Private/MovieCatalog';
+import MovieDetails from 'pages/Private/MovieDetails';
 
 import './App.css';
 
 const App = () => {
   return (
-    <MovieCatalog />
+    <MovieDetails />
   );
 };
 
